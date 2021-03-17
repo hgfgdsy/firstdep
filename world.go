@@ -1,11 +1,11 @@
-package main
+package firstdep
 
 import (
 	"fmt"
 	"github.com/hgfgdsy/alix"
 )
 
-func main(){
+func world(){
 	fmt.Println("123")
 	alix.Nice()
 }

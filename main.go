@@ -1,4 +1,4 @@
-package main
+package firstdep
 
 import (
 	"fmt"
@@ -6,9 +6,8 @@ import (
 )
 
 
-func main() {
+func ccc() {
 	ch := make(chan float64)
-	go sendFloats(ch)
 
 	// Compute the 50th, 90th, and 99th percentile.
 	q := quantile.NewTargeted(0.50, 0.90, 0.99)
