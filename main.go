@@ -1,4 +1,4 @@
-package firstdep
+package world
 
 import (
 	"fmt"

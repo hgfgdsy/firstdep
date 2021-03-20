@@ -9,14 +9,6 @@
   pruneopts = "UT"
   revision = "d9a9656a3a4b1c2864fdb44db2ef8619772d92aa"
 
-[[projects]]
-  digest = "1:a6051883dde99b2ff68299805a529932e23ad7d8d2248298e28bbf58043c1832"
-  name = "github.com/hgfgdsy/alix"
-  packages = ["."]
-  pruneopts = "UT"
-  revision = "d76061767c0d95fc3e07b5d07753045ede998688"
-  version = "v0.0.1"
-
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1

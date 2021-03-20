@@ -32,8 +32,3 @@
 [[constraint]]
   branch = "master"
   name = "github.com/bmizerany/perks"
-
-
-[[constraint]]
-  name = "github.com/hgfgdsy/alix"
-  version = "=0.0.1"
